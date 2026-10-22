@@ -1,0 +1,14 @@
+{
+  "name": "ativ05-dotenv",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --env-file=./.env src/index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.8"
+  }
+}
