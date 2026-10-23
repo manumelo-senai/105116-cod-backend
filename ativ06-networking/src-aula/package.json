@@ -1,0 +1,11 @@
+{
+  "name": "ativ06-networking",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch --no-warnings server.js"
+  },
+  "keywords": [],
+  "type": "module"
+}
