@@ -1,0 +1,16 @@
+{
+  "name": "ativ07-node-http-express",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server3.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
